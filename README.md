@@ -51,7 +51,9 @@ desafio_dados_rh/
 │
 ├── requirements.txt     # Lista de dependências do projeto
 │
-└── README.md            # Descrição do projeto
+├── README.md            # Descrição do projeto
+└── CONTRIBUTING.md      # Descrição do projeto
+
 
 ```
 
@@ -67,6 +69,7 @@ Para contribuir com este projecto, siga os passos abaixo:
 4. Faça suas alterações e comite-as
 5. Envie para o repositório remoto
 6. Abra um Pull Request
+   - Para mais detalhes sobre como contribuir, leia nosso [CONTRIBUTING.md](./CONTRIBUTING.md) localizado no diretório raiz do repositório.
 
 ## Dependências 📦
 Instale as dependências do projeto utilizando o arquivo **requirements.txt**:
